@@ -14,6 +14,7 @@ export default {
     // setTimeout(() => {
     //    msg.close()
     // }, 500);
+    console.log("这是我第一次提交");
   },
 };
 </script>
