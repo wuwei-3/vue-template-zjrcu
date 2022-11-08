@@ -15,6 +15,7 @@ export default {
     //    msg.close()
     // }, 500);
     console.log("这是我第一次提交");
+    console.log("这是我第二次提交");
   },
 };
 </script>
