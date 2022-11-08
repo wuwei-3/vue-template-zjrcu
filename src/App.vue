@@ -9,6 +9,7 @@
 export default {
   mounted() {
     // console.log("123");
+    console.log("456");
     let msg = this.$message.error(123);
     // setTimeout(() => {
     //    msg.close()
