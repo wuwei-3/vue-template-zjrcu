@@ -23,10 +23,7 @@ const routes = [
 
 const router = new VueRouter({
   routes,
-<<<<<<< HEAD
   mode:'history',
-=======
->>>>>>> 6f6aa81... vue2
 });
 
 export default router;
