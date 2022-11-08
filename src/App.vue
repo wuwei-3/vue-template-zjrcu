@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-<<<<<<< HEAD
     <!-- <div><a href="https://wuwei.work/file/demo.pdf">文件下载</a></div> -->
     <!-- <router-view /> -->
     <iframe src="https://wuwei.work/wb-iframe/" frameborder="0"></iframe>
@@ -19,15 +18,6 @@ mounted(){
 }
 
 </script>
-=======
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view />
-  </div>
-</template>
->>>>>>> 6f6aa81... vue2
 
 <style lang="scss">
 #app {
