@@ -6,17 +6,15 @@
   </div>
 </template>
 <script>
-export default{
-mounted(){
-  console.log('123');
-//  let msg =  this.$message.error(123)
-// setTimeout(() => {
-  //    msg.close()
-  // }, 500);
-}
-
-}
-
+export default {
+  mounted() {
+    // console.log("123");
+    let msg = this.$message.error(123);
+    // setTimeout(() => {
+    //    msg.close()
+    // }, 500);
+  },
+};
 </script>
 
 <style lang="scss">
