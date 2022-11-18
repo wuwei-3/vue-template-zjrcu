@@ -2,18 +2,20 @@
   <div id="app">
     <!-- <div><a href="https://wuwei.work/file/demo.pdf">文件下载</a></div> -->
     <!-- <router-view /> -->
-    <iframe src="https://wuwei.work/wb-iframe/" frameborder="0"></iframe>
+    <!-- <iframe src="https://wuwei.work/wb-iframe/" frameborder="0"></iframe> -->
+    
   </div>
 </template>
 <script>
 export default {
   mounted() {
     // console.log("123");
-    let msg = this.$message.error(123);
+    // let msg = this.$message.error(123);
     // setTimeout(() => {
     //    msg.close()
     // }, 500);
-    console.log("这是我第一次提交");
+    // 你好
+    // console.log("这是我第一次提交");
   },
 };
 </script>
